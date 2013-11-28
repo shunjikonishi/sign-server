@@ -19,7 +19,7 @@ https://developers.google.com/accounts/docs/OAuth2ServiceAccount
     # If you don't want to sleep dyno, this app can access next url every 30 minutes.
     heroku config:set POLLING_URL=http://<YOUR APPNAME>.herokuapp.com/
 
-** Usage
+## Usage
 HttpRequest
 - POST https:<YOUR_HOST>/sign
 
