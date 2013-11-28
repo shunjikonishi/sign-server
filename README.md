@@ -27,5 +27,5 @@ Parameter
 - data: String for sign.
 
 HttpResponse
-- Signed string
-- content-type: text/plain
+- Content-type: text/plain
+- Body: Signed string
