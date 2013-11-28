@@ -1,4 +1,4 @@
-* Sign server
+# Sign server
 
 This app provides only one feature.  
 It signs posted data with SHA256withRSA.
@@ -7,7 +7,7 @@ I developed this app for using Google OAuth 2.0 for Server to Server Application
 
 https://developers.google.com/accounts/docs/OAuth2ServiceAccount
 
-** Install
+## Install
 
     git clone https://github.com/shunjikonishi/sign-server.git
     cd sign-server
