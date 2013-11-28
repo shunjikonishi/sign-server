@@ -3,9 +3,10 @@
 This app provides only one feature.  
 It signs posted data with SHA256withRSA.
 
-I developed this app for using Google OAuth 2.0 for Server to Server Applications.
+I developed this app for using Google OAuth 2.0 for Server to Server Applications in Salesforce.
 
-https://developers.google.com/accounts/docs/OAuth2ServiceAccount
+- https://developers.google.com/accounts/docs/OAuth2ServiceAccount
+- https://github.com/shunjikonishi/apex-google-api
 
 ## Install
 
