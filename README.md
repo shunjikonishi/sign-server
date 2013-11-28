@@ -21,7 +21,7 @@ https://developers.google.com/accounts/docs/OAuth2ServiceAccount
 
 ## Usage
 HttpRequest
-- POST https:<YOUR_HOST>/sign
+- POST https:&lt;YOUR_HOST>/sign
 
 Parameter
 - data: String for sign.
